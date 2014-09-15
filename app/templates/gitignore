@@ -1,0 +1,10 @@
+
+/node_modules
+/.sass-cache
+/bower_components
+
+*.png
+*.jpg
+*.jpeg
+*.gif
+/img
