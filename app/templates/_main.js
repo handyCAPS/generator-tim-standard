@@ -1,10 +1,4 @@
 
 
 
-(function() {
-
-  var htmlEl = document.getElementsByTagName('html')[0];
-
-  htmlEl.classList.remove('no-js');
-
-})();
+(function(){document.getElementsByTagName('html')[0].classList.remove('no-js');})();
